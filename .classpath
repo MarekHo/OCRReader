@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/fontbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/eclipse projects/Tess4j/lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
