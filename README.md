@@ -1,6 +1,6 @@
 # OCRReader
 
-Application for optical character recognition. Readed files are saved in XLSX extenstion.  
+Application for optical character recognition. Readed files are saved in XLSX files.  
 
 # Built With
 
